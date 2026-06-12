@@ -1,0 +1,14 @@
+apiVersion: v2
+name: isb-mudarabah-savings-account
+description: "BIAN Service Domain: Mudarabah Savings Account (Fulfill pattern, Deposits and Investment Accounts)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - islamic-banking
+  - fulfill
+annotations:
+  isb/business-area: "Deposits and Investment Accounts"
+  isb/business-domain: "Islamic Deposits"
+  isb/asset-type: "Mudarabah Savings Account"
+  isb/control-record: "Mudarabah Savings Account Fulfillment Arrangement"
